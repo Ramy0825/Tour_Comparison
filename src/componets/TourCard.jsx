@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState } from 'react';;
 // TourCard renders a card with tour information
 
 const TourCard = ({ id,name, info, price, image, onRemove }) => {
@@ -30,3 +30,4 @@ return (
 )
 } 
 export default TourCard; 
+;
