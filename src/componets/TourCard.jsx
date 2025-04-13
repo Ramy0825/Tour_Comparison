@@ -30,4 +30,3 @@ return (
 )
 } 
 export default TourCard; 
-;

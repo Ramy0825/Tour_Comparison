@@ -19,7 +19,7 @@ const fetchTours = async () => {
         setLoading(false);
     }
 }
-};
+};;
 
 setTours(trimmed);
 setLoading(false);
